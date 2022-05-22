@@ -10,7 +10,7 @@ Full version sniping bot used to snipe during fair coin launches. With advanced 
 privatekey=00000000000000000000000000000000000000000000000000</pre>
 **You can get the private key by following this guide: https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key**
 
-3. Run "snipebotv2.6.exe"
+3. Run "snipebotv2.6.exe" ```(To open without problems it is necessary that the files "core.exe, usersetting.ini and configfile.py" are in the same folder next to snipebot.exe))```
 
 <H2>Functions</H2>
 
