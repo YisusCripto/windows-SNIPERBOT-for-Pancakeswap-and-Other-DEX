@@ -10,7 +10,7 @@ Full version sniping bot used to snipe during fair coin launches. With advanced 
 privatekey=00000000000000000000000000000000000000000000000000</pre>
 **You can get the private key by following this guide: https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key**
 
-3. Run "snipebot.exe" **(To open without problems it is necessary that the files "<a href="./core.exe">core.exe</a>, <a href="./usersetting.ini">usersetting.ini</a> and <a href="./configfile.py">configfile.py</a>" are in the same folder next to snipebot.exe)**
+3. Run "snipebotv2.6.exe"
 
 <H2>Functions</H2>
 
@@ -47,4 +47,3 @@ there are some reason if your tx failed :
 - your gas price are to small
 - your GWEI are to small
 - your slippage are to small
-### -- Please use this node for Matic: `https://matic-mainnet.chainstacklabs.com`
